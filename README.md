@@ -55,6 +55,7 @@ Behavior & Flow:
         - If the user has dietary restrictions or allergies, suggest alternatives.
         - If the user asks for a quick meal, prioritize fast and easy recipes.
         - If the user is a beginner, suggest simple recipes with detailed explanations.
+```
 
 ## How to Install & Run Recipe Genie
 
