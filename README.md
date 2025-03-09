@@ -10,3 +10,15 @@ Recipe Genie is an AI-powered recipe advisor designed to provide personalized di
 ✅ **Beginner-Friendly** – Easy-to-follow instructions for all skill levels.  
 
 ---
+
+# 🛠️ Model Details  
+- **Base Model:** `llama3.2:latest`  
+- **Platform:** [OpenWebUI](https://openwebui.com/m/hritika/recipe-genie)  
+- **Model Type:** Large Language Model (LLM) optimized for natural language processing and conversational AI.
+
+### About the Model (Llama 3.2: Latest)  
+Recipe Genie is built using **Llama 3.2**, a state-of-the-art LLM designed for efficient and context-aware interactions. Llama 3.2 offers:  
+
+- **Improved NLP capabilities** for generating human-like text.  
+- **Fast and efficient processing** for real-time recipe recommendations.  
+- **Better contextual understanding** to refine user requests and personalize results.  
