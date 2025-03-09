@@ -74,6 +74,8 @@ cd openwebui
 docker-compose up -d
 ```
 This starts OpenWebUI in the background.
+
+
 **2 Place the Downloaded JSON Model in the Correct Directory**
 - Locate your downloaded JSON model file (e.g., recipe_genie.json).
 - Move the file to the correct OpenWebUI models directory.
@@ -81,7 +83,11 @@ This starts OpenWebUI in the background.
 mv /path/to/downloaded_model.json ~/openwebui/models/
 ```
 Replace /path/to/downloaded_model.json with the actual path of the file.
+
+
 **3. Load the Model in OpenWebUI**
+
+
 🔹 Open OpenWebUI in a Browser
 - Open http://localhost:3000 in your browser.
 - Go to Settings → Models.
