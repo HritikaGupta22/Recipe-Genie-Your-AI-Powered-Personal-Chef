@@ -4,7 +4,8 @@ Recipe Genie is an AI-powered recipe advisor designed to provide personalized di
 ### 🛠️ Model 
 - **Base Model:** `llama3.2:latest`  
 - **Platform:** [OpenWebUI](https://openwebui.com/m/hritika/recipe-genie)
-![image](https://github.com/user-attachments/assets/e448212f-6c31-4389-a0e1-49dbc5832ba1)
+![image](https://github.com/user-attachments/assets/9cb1ed83-ba6c-40d8-a233-eea62bf88cbd)
+
 - **Model Type:** Large Language Model (LLM) optimized for natural language processing and conversational AI.
 
 
@@ -57,14 +58,39 @@ Behavior & Flow:
 
 ## How to Install & Run Recipe Genie
 
-1️⃣ Install OpenWebUI
-If you haven’t installed OpenWebUI yet, follow these steps:
+**1️ Install OpenWebUI**
+Ensure you have Docker and Docker Compose installed.
 
+🔹 Install Docker & Docker Compose (if not installed)
+```
+sudo apt update && sudo apt install -y docker.io docker-compose
+```
+
+Then, clone and run OpenWebUI:
 ```
 git clone https://github.com/openwebui/openwebui.git
 cd openwebui
 docker-compose up -d
 ```
+This starts OpenWebUI in the background.
+**2 Place the Downloaded JSON Model in the Correct Directory**
+- Locate your downloaded JSON model file (e.g., recipe_genie.json).
+- Move the file to the correct OpenWebUI models directory.
+```
+mv /path/to/downloaded_model.json ~/openwebui/models/
+```
+Replace /path/to/downloaded_model.json with the actual path of the file.
+**3. Load the Model in OpenWebUI**
+🔹 Open OpenWebUI in a Browser
+- Open http://localhost:3000 in your browser.
+- Go to Settings → Models.
+- Click "Import Model" and upload the JSON file.
+
+**4: Activate and Use the Model**
+🔹 Select the Model in OpenWebUI
+- Navigate to Chat Interface or API Playground.
+- Select the uploaded model from the dropdown.
+- Start chatting with your AI model! 
 
 ## Conversation
 
