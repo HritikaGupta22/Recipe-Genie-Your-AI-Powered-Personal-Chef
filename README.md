@@ -106,7 +106,6 @@ https://github.com/user-attachments/assets/bee7ae01-6677-4f8c-94e1-624e16e5ae45
 ```
 >>> Hi
 ```
-```
 Hello! Welcome to Recipe Genie!
 
 I'd love to help you find the perfect dish. Can you please start by telling me which country or cuisine you're from? Are you in the mood for something classic and
@@ -114,9 +113,7 @@ traditional, or are you feeling adventurous?
 
 Let's get started on this culinary journey together!
 ```
-```
 >>> i am from india. i want to eat traditional north india food
-```
 ```
 Delicious North Indian cuisine!
 
@@ -132,7 +129,7 @@ Hearty and comforting (e.g., dal makhani, chana masala)
 Quick and easy (e.g., chaat items like kachoris or papdi chaat)
 
 Let me know, and I'll give you some personalized recommendations!
-```
+
 ```
 >>> i want spicy and the dish should be vegetarian
 ```
