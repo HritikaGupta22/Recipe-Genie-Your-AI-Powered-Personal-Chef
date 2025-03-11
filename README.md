@@ -158,7 +158,166 @@ Which one of these dishes catches your attention?
 ```
 >>> kashmiri rajma masala
 ```
+```
+Delicious Kashmiri Rajma Masala!
 
+Here's the full recipe for you:
+
+**Kashmiri Rajma Masala Recipe**
+
+ Servings: 4-6 people
+
+**Ingredients:**
+
+* 1 cup red kidney beans, soaked overnight and drained
+* 2 medium onions, chopped
+* 2 cloves garlic, minced
+* 1 inch ginger, grated
+* 2 tablespoons Kashmiri chili powder (or substitute with cayenne pepper)
+* 1 teaspoon ground cumin
+* 1 teaspoon ground coriander
+* 1/2 teaspoon garam masala powder
+* 1/2 teaspoon turmeric powder
+* 1/4 teaspoon red salt (optional)
+* 2 tablespoons vegetable oil
+* 2 tablespoons lemon juice
+* Salt, to taste
+
+**Instructions:**
+
+1. In a blender or food processor, blend the soaked kidney beans with 2 cups of water until smooth.
+2. Heat oil in a large pan over medium heat. Add cumin seeds and let them sizzle for a few seconds.
+3. Add onions and sauté until they're translucent (5-6 minutes).
+4. Add garlic and ginger; sauté for another minute, stirring constantly to prevent burning.
+5. Stir in the blended kidney beans, chili powder, cumin, coriander, garam masala, turmeric, red salt (if using), and a pinch of salt. Cook for 2-3 minutes, until
+the spices are fragrant.
+6. Add 1 cup of water to the pan and bring the mixture to a boil.
+7. Reduce heat to low and simmer, covered, for 20-25 minutes or until the kidney beans are cooked through.
+8. Stir in lemon juice and adjust seasoning with salt as needed.
+
+**Tips & Variations:**
+
+* For extra heat, add more chili powder or cayenne pepper to taste.
+* To make it a bit creamier, add 1-2 tablespoons of plain yogurt towards the end of cooking time.
+* Serve with basmati rice, naan bread, or roti for a complete meal.
+
+**Prep Time:** 15 minutes
+**Cooking Time:** 25 minutes
+**Total Time:** 40 minutes
+
+Enjoy your delicious and spicy Kashmiri Rajma Masala!
+
+How does this recipe sound? Are you ready to give it a try?
+```
+```
+>>> can you the recepie of soya chaap?
+```
+```
+Delicious Soya Chaat!
+
+Soya Chaat is a popular North Indian street food that's crispy on the outside, soft on the inside, and bursting with flavors. Here's a recipe to make this
+delicious snack at home:
+
+**Soyaj Chole (Soya) Chaat Recipe**
+
+ Servings: 4-6 people
+
+**Ingredients:**
+
+For Soya:
+
+* 1 cup soya granules (or soya chunks)
+* 2 cups water
+* 1 tablespoon lemon juice
+* 1 teaspoon baking soda
+* Vegetable oil for frying
+
+For Chole (Soyaj Ki Sabzi):
+
+* 1 medium onion, chopped
+* 2 cloves garlic, minced
+* 1 inch ginger, grated
+* 1 cup chickpeas (canned or cooked from scratch)
+* 1 tablespoon tomato puree
+* 1 teaspoon ground cumin
+* 1 teaspoon ground coriander
+* 1/2 teaspoon garam masala powder
+* Salt, to taste
+* 2 tablespoons lemon juice
+* Chopped cilantro, for garnish
+
+For Sev (Fried Soya Flakes):
+
+* 1 cup soya granules
+* Vegetable oil for frying
+* Salt, to taste
+* Chopped cilantro, for garnish
+
+**Instructions:**
+
+**Step 1: Prepare Soya**
+
+1. Rinse the soya granules and soak them in water for at least 4 hours or overnight.
+2. Drain and rinse the soaked soya granules again.
+3. In a large bowl, mix together lemon juice and baking soda. Add the soya granules and let it sit for 30 minutes to an hour. This will help soften the soya.
+4. Heat oil in a deep frying pan over medium-high heat. Once hot, add the soya granules and fry until golden brown (about 5-7 minutes).
+5. Drain excess oil on paper towels.
+
+**Step 2: Prepare Chole**
+
+1. In a large pan, heat oil over medium heat. Add onions, garlic, and ginger; sauté until the onions are translucent.
+2. Add chickpeas, tomato puree, cumin, coriander, garam masala powder, and salt. Cook for 5-7 minutes or until the mixture thickens slightly.
+3. Stir in lemon juice and adjust seasoning as needed.
+
+**Step 3: Assemble Soya Chaat**
+
+1. Divide the fried soya granules into two parts.
+2. In a serving bowl, spread some of the chole mixture at the bottom. Top with a few crispy soya flakes.
+3. Repeat this process until all ingredients are used up, ending with a layer of chole on top.
+
+**Tips & Variations:**
+
+* To make it more flavorful, add tamarind paste or date syrup to the chole mixture.
+* For extra crunch, sprinkle some fried noodles (e.g., vermicelli) or chopped veggies on top of the soya flakes.
+* Serve with a side of raita (yogurt and cucumber sauce) for an authentic chaat experience!
+
+**Prep Time:** 20 minutes
+**Cooking Time:** 15-20 minutes
+**Total Time:** 35-40 minutes
+
+Enjoy your delicious Soya Chaat!
+
+How does this recipe sound? Are you ready to give it a try?
+```
+```
+>>> yes i am ready to give it a try.
+```
+```
+I'm thrilled to hear that! You're about to embark on an exciting culinary adventure.
+
+To make the Soya Chaat, please follow the steps I provided earlier. If you have any questions or need clarification during the process, feel free to ask.
+
+**Tips for a Perfect Soya Chaat:**
+
+1. **Fry the soya granules carefully**: Make sure they're golden brown and crispy, but not burnt.
+2. **Don't overcook the chole mixture**: Stir it frequently until it thickens slightly. You don't want it to become too dry or mushy.
+3. **Use the right seasonings**: Adjust the amount of chili powder, cumin, coriander, and garam masala to your taste preferences.
+
+**Common Mistakes to Avoid:**
+
+1. **Over-soaking soya granules**: This can make them soggy and unpleasant to eat.
+2. **Under-cooking chole mixture**: This can result in a dry or raw-tasting snack.
+3. **Not using enough oil for frying**: This can cause the soya flakes to stick together or become greasy.
+
+**Have Fun and Be Patient!**
+
+Remember, making Soya Chaat is an art that requires some practice. Don't be discouraged if your first attempt doesn't turn out perfectly. Experiment with
+different seasonings and techniques until you achieve the desired flavor and texture.
+
+If you have any questions or concerns during the cooking process, I'll be here to help. Good luck, and I hope you enjoy every bite of your delicious Soya Chaat!
+
+Are you ready to start cooking?
+```
 
 ## Learnings:  
 **1 Understanding LLaMA 3.2 Capabilities**: LLaMA 3.2 is a powerful language model with strong contextual understanding. Temperature tuning helps balance accuracy and creativity in responses.
