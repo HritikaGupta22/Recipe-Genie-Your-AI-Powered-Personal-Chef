@@ -56,7 +56,8 @@ Behavior & Flow:
         - If the user asks for a quick meal, prioritize fast and easy recipes.
         - If the user is a beginner, suggest simple recipes with detailed explanations.
 ```
-
+### Temperature 
+A temperature of 0.8 balances creativity and accuracy in responses. It allows Recipe Genie to generate diverse and engaging recipe suggestions while still maintaining relevance to user preferences. This setting ensures that dish recommendations are not overly random but still innovative and varied, making the AI more interactive and enjoyable.
 ## Video
 https://github.com/user-attachments/assets/bee7ae01-6677-4f8c-94e1-624e16e5ae45
 
