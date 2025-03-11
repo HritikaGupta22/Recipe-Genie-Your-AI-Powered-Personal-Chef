@@ -133,7 +133,7 @@ Let me know, and I'll give you some personalized recommendations!
 ```
 >>> i want spicy and the dish should be vegetarian
 ```
-```
+
 Spicy North Indian cuisine is my specialty!
 
 Since you're looking for a spicy and vegetarian option, I'd recommend the following dishes:
@@ -152,9 +152,7 @@ coriander, and garam masala.
 
 Which one of these dishes catches your attention?
 ```
-```
 >>> kashmiri rajma masala
-```
 ```
 Delicious Kashmiri Rajma Masala!
 
@@ -206,9 +204,7 @@ Enjoy your delicious and spicy Kashmiri Rajma Masala!
 
 How does this recipe sound? Are you ready to give it a try?
 ```
-```
 >>> can you the recepie of soya chaap?
-```
 ```
 Delicious Soya Chaat!
 
@@ -286,9 +282,7 @@ Enjoy your delicious Soya Chaat!
 
 How does this recipe sound? Are you ready to give it a try?
 ```
-```
 >>> yes i am ready to give it a try.
-```
 ```
 I'm thrilled to hear that! You're about to embark on an exciting culinary adventure.
 
@@ -314,7 +308,6 @@ different seasonings and techniques until you achieve the desired flavor and tex
 If you have any questions or concerns during the cooking process, I'll be here to help. Good luck, and I hope you enjoy every bite of your delicious Soya Chaat!
 
 Are you ready to start cooking?
-```
 
 ## Learnings:  
 **1 Understanding LLaMA 3.2 Capabilities**: LLaMA 3.2 is a powerful language model with strong contextual understanding. Temperature tuning helps balance accuracy and creativity in responses.
