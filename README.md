@@ -155,8 +155,9 @@ coriander, and garam masala.
 
 Which one of these dishes catches your attention?
 ```
-
-
+```
+>>> kashmiri rajma masala
+```
 
 
 ## Learnings:  
