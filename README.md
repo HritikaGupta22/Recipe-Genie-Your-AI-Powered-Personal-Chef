@@ -277,38 +277,22 @@ Ensure you have Docker and Docker Compose installed.
 sudo apt update && sudo apt install -y docker.io docker-compose
 ```
 
-Then, clone and run OpenWebUI:
+**2. Clone the Open WebUI Repository**
 ```
-git clone https://github.com/openwebui/openwebui.git
-cd openwebui
-docker-compose up -d
+git clone https://github.com/open-webui/open-webui.git
+cd open-webui
 ```
-This starts OpenWebUI in the background.
 
 
-**2 Place the Downloaded JSON Model in the Correct Directory**
-- Locate your downloaded JSON model file (e.g., recipe_genie.json).
-- Move the file to the correct OpenWebUI models directory.
+**3. Start Open WebUI**
 ```
-mv /path/to/downloaded_model.json ~/openwebui/models/
+docker compose up -d
 ```
-Replace /path/to/downloaded_model.json with the actual path of the file.
-
-
-**3. Load the Model in OpenWebUI**
-
-
-🔹 Open OpenWebUI in a Browser
-- Open http://localhost:3000 in your browser.
-- Go to Settings → Models.
-- Click "Import Model" and upload the JSON file.
-
-**4: Activate and Use the Model**
-🔹 Select the Model in OpenWebUI
-- Navigate to Chat Interface or API Playground.
-- Select the uploaded model from the dropdown.
-- Start chatting with your AI model! 
-
+**4. Access Open WebUI**
+Once the container is running, open your browser and go to:
+```
+http://localhost:3000
+```
 
 ## Learnings:  
 **1 Understanding LLaMA 3.2 Capabilities**: LLaMA 3.2 is a powerful language model with strong contextual understanding. Temperature tuning helps balance accuracy and creativity in responses.
