@@ -57,48 +57,6 @@ Behavior & Flow:
         - If the user is a beginner, suggest simple recipes with detailed explanations.
 ```
 
-## How to Install & Run Recipe Genie
-
-**1️ Install OpenWebUI**
-Ensure you have Docker and Docker Compose installed.
-
-🔹 Install Docker & Docker Compose (if not installed)
-```
-sudo apt update && sudo apt install -y docker.io docker-compose
-```
-
-Then, clone and run OpenWebUI:
-```
-git clone https://github.com/openwebui/openwebui.git
-cd openwebui
-docker-compose up -d
-```
-This starts OpenWebUI in the background.
-
-
-**2 Place the Downloaded JSON Model in the Correct Directory**
-- Locate your downloaded JSON model file (e.g., recipe_genie.json).
-- Move the file to the correct OpenWebUI models directory.
-```
-mv /path/to/downloaded_model.json ~/openwebui/models/
-```
-Replace /path/to/downloaded_model.json with the actual path of the file.
-
-
-**3. Load the Model in OpenWebUI**
-
-
-🔹 Open OpenWebUI in a Browser
-- Open http://localhost:3000 in your browser.
-- Go to Settings → Models.
-- Click "Import Model" and upload the JSON file.
-
-**4: Activate and Use the Model**
-🔹 Select the Model in OpenWebUI
-- Navigate to Chat Interface or API Playground.
-- Select the uploaded model from the dropdown.
-- Start chatting with your AI model! 
-
 ## Video
 https://github.com/user-attachments/assets/bee7ae01-6677-4f8c-94e1-624e16e5ae45
 
@@ -308,6 +266,49 @@ different seasonings and techniques until you achieve the desired flavor and tex
 If you have any questions or concerns during the cooking process, I'll be here to help. Good luck, and I hope you enjoy every bite of your delicious Soya Chaat!
 
 Are you ready to start cooking?
+
+## How to Install & Run Recipe Genie
+
+**1️ Install OpenWebUI**
+Ensure you have Docker and Docker Compose installed.
+
+🔹 Install Docker & Docker Compose (if not installed)
+```
+sudo apt update && sudo apt install -y docker.io docker-compose
+```
+
+Then, clone and run OpenWebUI:
+```
+git clone https://github.com/openwebui/openwebui.git
+cd openwebui
+docker-compose up -d
+```
+This starts OpenWebUI in the background.
+
+
+**2 Place the Downloaded JSON Model in the Correct Directory**
+- Locate your downloaded JSON model file (e.g., recipe_genie.json).
+- Move the file to the correct OpenWebUI models directory.
+```
+mv /path/to/downloaded_model.json ~/openwebui/models/
+```
+Replace /path/to/downloaded_model.json with the actual path of the file.
+
+
+**3. Load the Model in OpenWebUI**
+
+
+🔹 Open OpenWebUI in a Browser
+- Open http://localhost:3000 in your browser.
+- Go to Settings → Models.
+- Click "Import Model" and upload the JSON file.
+
+**4: Activate and Use the Model**
+🔹 Select the Model in OpenWebUI
+- Navigate to Chat Interface or API Playground.
+- Select the uploaded model from the dropdown.
+- Start chatting with your AI model! 
+
 
 ## Learnings:  
 **1 Understanding LLaMA 3.2 Capabilities**: LLaMA 3.2 is a powerful language model with strong contextual understanding. Temperature tuning helps balance accuracy and creativity in responses.
