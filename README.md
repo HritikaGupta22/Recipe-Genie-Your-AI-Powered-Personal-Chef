@@ -157,6 +157,7 @@ Which one of these dishes catches your attention?
 ```
 >>> kashmiri rajma masala
 ```
+```
 Delicious Kashmiri Rajma Masala!
 
 Here's the full recipe for you:
